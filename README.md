@@ -2,11 +2,11 @@
 
 Este es un proyecto de una calculadora básica en Java con interfaz gráfica. Permite realizar operaciones matemáticas simples como suma, resta, multiplicación y división.
 
-Requisitos previos
+##Requisitos previos
 Java Development Kit (JDK) instalado en tu sistema.
 IDE de Java (Eclipse, IntelliJ, NetBeans, etc.) o un editor de texto para abrir y ejecutar el código.
 
-Cómo ejecutar la calculadora
+##Cómo ejecutar la calculadora
 
 1)Clona o descarga este repositorio en tu máquina local.
 
